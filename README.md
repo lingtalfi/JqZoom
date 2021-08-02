@@ -30,17 +30,13 @@ Or just download it and place it where you want otherwise.
 
 
 
-Summary
-===========
-- [JqZoom api](https://github.com/lingtalfi/JqZoom/blob/master/doc/api/Ling/JqZoom.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
-
-
-
-
-
 
 History Log
 =============
+
+- 1.0.1 -- 2021-08-02
+
+    - update README, removed summary section
 
 - 1.0.0 -- 2021-08-02
 
